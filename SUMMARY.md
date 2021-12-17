@@ -1,3 +1,17 @@
 # Table of contents
 
-* [Page 1](README.md)
+* [Overview](README.md)
+  * [Bunnies](overview/bunnies.md)
+  * [Pre-sale](overview/pre-sale.md)
+  * [Public Sale](overview/public-sale.md)
+  * [Unlocking Milestones](overview/unlocking-milestones.md)
+* [Economy](economy/README.md)
+  * [$PILL](economy/usdpill.md)
+  * [$PILL Production](economy/usdpill-production.md)
+  * [$PILL-$MANGA Listing](economy/usdpill-usdmanga-listing.md)
+  * [$MANGA Floor Price Fund](economy/usdmanga-floor-price-fund.md)
+* [Breeding](breeding/README.md)
+  * [Bunny Traits](breeding/bunny-traits.md)
+  * [Item Shop](breeding/item-shop.md)
+  * [Breeding Essentials](breeding/breeding-essentials.md)
+  * [Boosters](breeding/boosters.md)
