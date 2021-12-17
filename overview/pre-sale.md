@@ -10,6 +10,8 @@ In order to qualify for our pre-sale you need to fulfil tasks.
 
 **Whitelist ends on:** 27th Dec 2021 UTC 1200
 
+**Quantity released on pre-sale:** 2,000
+
 ### What are the requirements?
 
 #### QUALIFY FOR 1 BUNNY
