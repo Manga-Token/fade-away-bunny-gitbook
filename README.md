@@ -8,6 +8,8 @@ description: >-
 
 ### What is Fade Away Bunny?
 
+![](.gitbook/assets/bunny\_sample.gif)
+
 Fade Away Bunny is a manga series made by Shiori Kawana. It was first published in the LINE Manga app in Japan and has been Rank#1 for a long time in dark side/underground genre in LINE Manga Indies category. It subsequently made its way to the rest of the world through [Kindle](https://www.amazon.com/gp/product/B096WFHM41?notRedirectToSDP=1\&ref\_=dbs\_mng\_calw\_0\&storeType=ebooks), [comiXology](https://www.comixology.com/Fade-Away-Bunny/comics-series/156692?ref=cHVibGlzaGVyL3ZpZXcvZGVza3RvcC9saXN0L3Nlcmllc0xpc3Q), [Manga Planet](https://mangaplanet.com/fade-away-bunny/) and [INKR](https://inkr.com/ik-title-861).
 
 #### The Fade Away Bunny Collection
