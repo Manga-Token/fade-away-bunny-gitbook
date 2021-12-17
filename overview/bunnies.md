@@ -28,4 +28,4 @@ Get unique bunnies with different characteristics, who knows you might breed a b
 
 Each bunny is a non-fungible NFT on an ERC 721 contract on the Ethereum main net, that means your bunny is going to be unique on the blockchain and potential resellable on other marketplaces such as Opensea, Mintable or Rarible apart from [Trophee.xyz](https://trophee.xyz).
 
-**721 Contract address:** \[to be announced]
+**ERC721 Contract address:** \[to be announced]
