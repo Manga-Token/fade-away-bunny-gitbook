@@ -68,4 +68,4 @@ OR
 
 #### Submit your qualifications on discord
 
-Ping one of our admins on discord bearing the status "Whitelist Verifier" and send proof of your qualifications. Our admins will then put you into our whitelist and give you the status "Bunny Whitelist".
+Ping one of our admins on discord bearing the status "Whitelist Verifier" and send proof of your qualifications. Our admins will then put you into our whitelist and give you the status "Bunny Whitelist". If you had submitted your application on [Gleam](https://gleam.io/YvPFM/fade-away-bunny-x-manga-token-whitelist-competition), you don't have to submit any proof.
