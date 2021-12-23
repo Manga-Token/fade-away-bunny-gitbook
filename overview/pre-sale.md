@@ -20,7 +20,7 @@ In order to qualify for our pre-sale you need to fulfil tasks.
 
 ✅ Follow us on [twitter](https://twitter.com/manga\_token), retweet & like our [Fade Away Bunny post](https://twitter.com/manga\_token/status/1468668702702796800)
 
-✅ Follow us on Youtube
+✅ Follow us on [Youtube](https://www.youtube.com/channel/UCfiCki\_exYQ0OrP0VzJytcg)
 
 OR
 
@@ -28,7 +28,7 @@ OR
 
 OR
 
-✅ Participate in our Gleam draw to join the whitelist (NOTE, if we are oversubscribed we will randomly pick whitelisters)
+✅ Participate in our [Gleam draw](https://gleam.io/YvPFM/fade-away-bunny-x-manga-token-whitelist-competition) to join the whitelist (NOTE, if we are oversubscribed we will randomly pick whitelisters)
 
 #### QUALIFY FOR 2 BUNNIES
 
@@ -36,7 +36,7 @@ OR
 
 ✅ Follow us on [twitter](https://twitter.com/manga\_token), retweet & like our [Fade Away Bunny post](https://twitter.com/manga\_token/status/1468668702702796800)
 
-✅ Follow us on Youtube
+✅ Follow us on [Youtube](https://www.youtube.com/channel/UCfiCki\_exYQ0OrP0VzJytcg)
 
 OR
 
