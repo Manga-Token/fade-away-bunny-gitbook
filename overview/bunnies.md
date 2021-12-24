@@ -6,7 +6,7 @@ description: >-
 
 # Bunnies
 
-Every bunny has a unique design generated from 90 different attributes. This means that there are 200,000,000 possible designs waiting for you for discover!
+On [FadeAwayBunny.com](https://www.fadeawaybunny.com), every bunny has a unique design generated from 90 different attributes. This means that there are 200,000,000 possible designs waiting for you for discover!
 
 ![](../.gitbook/assets/avatar\_bunnies\_samples.png)
 
