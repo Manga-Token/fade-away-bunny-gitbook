@@ -18,6 +18,8 @@ In order to qualify for our pre-sale you need to fulfil tasks.
 
 **Quantity released on pre-sale:** 2,000
 
+**Pre-sale mint:** 28th Dec 2021 UTC 0200
+
 ### What are the requirements?
 
 #### QUALIFY FOR 1 BUNNY
