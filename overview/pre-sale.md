@@ -1,14 +1,20 @@
 ---
-description: Whitelists starts from 9th December 2021 and ends on 27th December 2021.
+description: Get whitelisted today!
 ---
 
 # Pre-sale
+
+## Whitelist has been extend to 29th Dec 2021 UTC 1400!
 
 Each bunny is a randomly generated bunny, to get your bunny you will need to participate in a ROLL. A ROLL is a process to churn your randomly generated bunny. Each ROLL in our pre-sale costs **0.06 ETH**.
 
 In order to qualify for our pre-sale you need to fulfil tasks.
 
-**Whitelist ends on:** 27th Dec 2021 UTC 1200
+**Get whitelist in batches:**
+
+* **Batch 1 -** 27th Dec 2021 UTC 1400
+* **Batch 2 -** 28th Dec 2021 UTC 1400
+* **Batch 3 -** 29th Dec 2021 UTC 1400
 
 **Quantity released on pre-sale:** 2,000
 
