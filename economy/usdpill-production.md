@@ -10,7 +10,7 @@ Each bunny will get you 100 $PILL a day!
 
 In order to produce $PILL, bunny owners will need to stake their bunnies in a staking contract. This staking contract will be operational for a period of **5 years**.
 
-There won't be any lock-in period for staking, but if course the longer you stake the more $PILL you'll get!
+There is **NO LOCK-IN** period for staking, but if course the longer you stake the more $PILL you'll get!
 
 **Staking Contract address:** \[To be announced]
 
