@@ -11,7 +11,7 @@ To kickstart the $MANGA Floor Price Fund, we will be committing a portion of our
 **The breakdown is as follow:**
 
 * 10% of our initial sale will go into the Floor Price Fund
-* 50% of re-sale commission from any NFT marketplace like Opensea, Rarible, Mintable & of course [Trophee.xyz](https://trophee.xyz) will go into the Floor Price Fund
+* 50% of re-sale commission from any NFT marketplace like Opensea, Rarible & of course [Trophee.xyz](https://trophee.xyz) will go into the Floor Price Fund
 
 ### What is this floor price fund?
 
