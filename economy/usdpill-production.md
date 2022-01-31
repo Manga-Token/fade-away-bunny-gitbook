@@ -12,8 +12,6 @@ In order to produce $PILL, bunny owners will need to stake their bunnies in a st
 
 There is **NO LOCK-IN** period for staking, but if course the longer you stake the more $PILL you'll get!
 
-**Staking Contract address:** \[To be announced]
+**Staking page:** [app.fadeawaybunny.com](https://app.fadeawaybunny.com)
 
-**Staking page:** \[To be announced]
-
-**Expected yield:** 100 $PILL/ day
+**Expected yield:** 100 $PILL/ day / bunny

@@ -14,4 +14,4 @@ $PILL is essential to the Fade Away Bunny economy, it is required for obtaining 
 
 **Initial supply:** 0
 
-**Token Contract address:** \[To be announced]
+**Token Contract address:** [0xd8cce39be1a3fb15c648dbf13ba4c47b77e1d873](https://etherscan.io/token/0xd8cce39be1a3fb15c648dbf13ba4c47b77e1d873)
