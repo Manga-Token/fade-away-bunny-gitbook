@@ -10,7 +10,7 @@ description: >-
 
 ### **Auto Liquidity**
 
-Going forward, every transaction of $PILL will be [taxed](transaction-tax.md) and a portion of the tax will go into the $PILL-wETH liquidity pool.
+Going forward, every transaction of $PILL will be [taxed](usdpill-lp.md) and a portion of the tax will go into the $PILL-wETH liquidity pool.
 
 **wETH ERC20 contract address:** \[to be announced]
 

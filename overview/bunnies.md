@@ -18,7 +18,7 @@ Each bunny comes as a 2500 x 2500 image available for you to download. If using 
 
 #### Earn $PILL
 
-Stake your bunny to [earn $PILL daily](../economy/usdpill-factory.md).
+Stake your bunny to [earn $PILL daily](../economy/usdpill-production.md).
 
 #### Breed new bunnies
 

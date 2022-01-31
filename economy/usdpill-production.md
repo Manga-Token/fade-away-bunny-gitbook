@@ -4,7 +4,7 @@ description: >-
   economy. The more $PILLs you produce the bigger the economy becomes.
 ---
 
-# $PILL Production
+# $PILL Factory
 
 Each bunny will get you 100 $PILL a day!
 
