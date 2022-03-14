@@ -18,7 +18,7 @@ Stake your bunny for 7 days and burn 1000 $PILL to mint 1 KNIFE.
 
 #### STEP 2: Get a BED
 
-Burn 10,000 $PILL at the [Item Shop](item-shop.md) to mint 1 BED
+Burn 10,000 $PILL at the [Item Shop](broken-reference) to mint 1 BED
 
 #### STEP 3: Breed
 
